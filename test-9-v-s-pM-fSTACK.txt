@@ -1,0 +1,8 @@
+# Corridor
+M
+5
+.....
+o@oo.
+.....
+.oooo
+ooo$.
